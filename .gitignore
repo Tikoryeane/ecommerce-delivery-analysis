@@ -219,3 +219,8 @@ __marimo__/
 
 # Local raw data files
 data/raw/
+
+# Jupyter and Anaconda temporary files
+.virtual_documents/
+.anaconda/
+**/project_filebrowser.db
