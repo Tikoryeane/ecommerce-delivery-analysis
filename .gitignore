@@ -224,3 +224,6 @@ data/raw/
 .virtual_documents/
 .anaconda/
 **/project_filebrowser.db
+
+# Locally generated processed data
+data/processed/
